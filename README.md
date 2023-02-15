@@ -1,7 +1,9 @@
 # music-server
 Music Server for Spring Boot project
 
-# Instalation options
 
+## Installation instructions
+
+Run maven and go.
+Use mvn:start to begin.
 Use IntelliJ Maven to do it.
-
